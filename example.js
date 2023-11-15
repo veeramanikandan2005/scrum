@@ -1,0 +1,1 @@
+document.getElementById('para').innerHTML = "connect css and js to create a functional website";
